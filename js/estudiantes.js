@@ -83,8 +83,8 @@ for (let i = 0; i < estudiantes.length; i++) {
     console.log(`Calificaciones:`, estudiante.calificaciones);
     console.log(`Promedio:`, estudiante.promedio);
     console.log(`Clasificación: ${estudiante.clasificacion}`);
-    console.log(`Máxima calificación: ${estudiante.maxCalif}`);
-    console.log(`Mínima calificación: ${estudiante.minCalif}`);
+    console.log(`Máxima calificación: ${estudiante.maxNota}`);
+    console.log(`Mínima calificación: ${estudiante.minNota}`);
     console.log("------------------------------------------");
   }
   
